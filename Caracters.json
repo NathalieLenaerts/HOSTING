@@ -1,0 +1,172 @@
+[
+    {
+      "id": 1,
+      "name": "Ariana Moonshadow",
+      "description": "A powerful sorceress from the Elven Kingdom, skilled in the art of elemental magic.",
+      "age": 287,
+      "isAlive": true,
+      "birthdate": "1737-04-12",
+      "profileImageUrl": "https://github.com/NathalieLenaerts/HOSTING/blob/main/images/ArianaMoonshadow.jpg?raw=true",
+      "hobbies": ["studying ancient texts", "meditating in nature", "practicing spells"],
+      "race": "Elf",
+      "specializationDetails": {
+        "id": 101,
+        "affiliation": "Elven Kingdom",
+        "rank": "Grand Mage",
+        "specialAbility": "Control over fire and ice"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Grimm Blackclaw",
+      "description": "A fierce werewolf warrior sworn to protect the realm of the Night Fang Clan.",
+      "age": 174,
+      "isAlive": true,
+      "birthdate": "1850-09-28",
+      "profileImageUrl": "https://github.com/NathalieLenaerts/HOSTING/blob/main/images/GrimmBlackclaw.jpg?raw=true",
+      "hobbies": ["honing combat skills", "patrolling the borders", "howling at the moon"],
+      "race": "Werewolf",
+      "specializationDetails": {
+        "id": 102,
+        "affiliation": "Night Fang Clan",
+        "rank": "Alpha",
+        "specialAbility": "Enhanced strength and senses in wolf form"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Lyra Starfall",
+      "description": "A skilled rogue from the Shadow Guild, adept in stealth and infiltration tactics.",
+      "age": 132,
+      "isAlive": true,
+      "birthdate": "1892-12-05",
+      "profileImageUrl": "https://github.com/NathalieLenaerts/HOSTING/blob/main/images/LyraStarfall.jpg?raw=true",
+      "hobbies": ["picking locks", "disarming traps", "collecting rare artifacts"],
+      "race": "Human",
+      "specializationDetails": {
+        "id": 103,
+        "affiliation": "Shadow Guild",
+        "rank": "Master Thief",
+        "specialAbility": "Shadow melding for invisibility"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Thorn Ironhide",
+      "description": "A dwarven warrior known for his unmatched prowess in battle.",
+      "age": 210,
+      "isAlive": true,
+      "birthdate": "1803-08-20",
+      "profileImageUrl": "https://github.com/NathalieLenaerts/HOSTING/blob/main/images/ThornIronhide.jpg?raw=true",
+      "hobbies": ["forging weapons", "drinking ale", "telling epic tales"],
+      "race": "Dwarf",
+      "specializationDetails": {
+        "id": 104,
+        "affiliation": "Dwarven Kingdom",
+        "rank": "Warlord",
+        "specialAbility": "Indestructible armor"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Sylas Frostbeard",
+      "description": "A frost mage with an icy demeanor and a heart of steel.",
+      "age": 150,
+      "isAlive": true,
+      "birthdate": "1874-02-15",
+      "profileImageUrl": "https://github.com/NathalieLenaerts/HOSTING/blob/main/images/SylasFrostbeard.jpg?raw=true",
+      "hobbies": ["experimenting with ice magic", "exploring frozen wastelands", "solving ancient riddles"],
+      "race": "Human",
+      "specializationDetails": {
+        "id": 105,
+        "affiliation": "Ice Citadel",
+        "rank": "Cryomancer",
+        "specialAbility": "Summoning blizzards and freezing foes"
+      }
+    },
+    {
+      "id": 6,
+      "name": "Luna Shadowstalker",
+      "description": "A stealthy assassin trained in the art of shadow manipulation.",
+      "age": 125,
+      "isAlive": true,
+      "birthdate": "1899-11-01",
+      "profileImageUrl": "https://raw.githubusercontent.com/NathalieLenaerts/HOSTING/main/images/LunaShadowstalker.webp",
+      "hobbies": ["silent reconnaissance", "dispatching targets with precision", "unraveling political schemes"],
+      "race": "Elf",
+      "specializationDetails": {
+        "id": 106,
+        "affiliation": "Nightshade Syndicate",
+        "rank": "Shadowblade",
+        "specialAbility": "Cloaking in darkness and striking from the shadows"
+      }
+    },
+    {
+      "id": 7,
+      "name": "Ragnar Thunderheart",
+      "description": "A barbarian chieftain with a thunderous roar and a lightning-fast axe.",
+      "age": 180,
+      "isAlive": true,
+      "birthdate": "1844-06-30",
+      "profileImageUrl": "https://github.com/NathalieLenaerts/HOSTING/blob/main/images/RagnarThunderheart.jpg?raw=true",
+      "hobbies": ["rampaging through enemy lines", "feasting on wild boar", "leading his tribe to victory"],
+      "race": "Orc",
+      "specializationDetails": {
+        "id": 107,
+        "affiliation": "Thunderclaw Tribe",
+        "rank": "War Chief",
+        "specialAbility": "Channeling lightning for devastating strikes"
+      }
+    },
+    {
+      "id": 8,
+      "name": "Selene Sunfire",
+      "description": "A celestial cleric blessed with healing powers and divine intervention.",
+      "age": 180,
+      "isAlive": true,
+      "birthdate": "1844-06-30",
+      "profileImageUrl": "https://github.com/NathalieLenaerts/HOSTING/blob/main/images/SeleneSunfire.jpg?raw=true",
+      "hobbies": ["tending to the sick and wounded", "praying to the gods for guidance", "banishing dark spirits"],
+      "race": "Elf",
+      "specializationDetails": {
+        "id": 108,
+        "affiliation": "Temple of Light",
+        "rank": "High Priestess",
+        "specialAbility": "Miraculous healing and divine protection"
+      }
+    },
+    {
+      "id": 9,
+      "name": "Drakkar Flamebeard",
+      "description": "A fearsome dragonborn warlock wielding dark magic and draconic fury.",
+      "age": 160,
+      "isAlive": true,
+      "birthdate": "1860-03-17",
+      "profileImageUrl": "https://github.com/NathalieLenaerts/HOSTING/blob/main/images/DrakkarFlamebeard.jpg?raw=true",
+      "hobbies": ["summoning infernal minions", "bathing in the flames of destruction", "plotting conquests"],
+      "race": "Dragon",
+      "specializationDetails": {
+        "id": 109,
+        "affiliation": "Cult of the Dragon",
+        "rank": "Dark Magus",
+        "specialAbility": "Harnessing dragonfire and necromantic energies"
+      }
+    },
+    {
+      "id": 10,
+      "name": "Valeera Swiftarrow",
+      "description": "A nimble ranger skilled in archery and tracking, roaming the untamed wilderness.",
+      "age": 130,
+      "isAlive": true,
+      "birthdate": "1890-05-23",
+      "profileImageUrl": "https://github.com/NathalieLenaerts/HOSTING/blob/main/images/ValeeraSwiftarrow.jpg?raw=true",
+      "hobbies": ["hunting elusive prey", "navigating through dense forests", "protecting nature from harm"],
+      "race": "Elf",
+      "specializationDetails": {
+        "id": 110,
+        "affiliation": "Forest Guardians",
+        "rank": "Master Ranger",
+        "specialAbility": "Deadly accuracy with bow and arrow"
+      }
+    }
+  ]
